@@ -1,0 +1,15 @@
+D:\ПП_Смелов\LabTwo\bin\Debug\net7.0\LabTwo.exe
+D:\ПП_Смелов\LabTwo\bin\Debug\net7.0\LabTwo.deps.json
+D:\ПП_Смелов\LabTwo\bin\Debug\net7.0\LabTwo.runtimeconfig.json
+D:\ПП_Смелов\LabTwo\bin\Debug\net7.0\LabTwo.dll
+D:\ПП_Смелов\LabTwo\bin\Debug\net7.0\LabTwo.pdb
+D:\ПП_Смелов\LabTwo\obj\Debug\net7.0\LabTwo.csproj.AssemblyReference.cache
+D:\ПП_Смелов\LabTwo\obj\Debug\net7.0\LabTwo.GeneratedMSBuildEditorConfig.editorconfig
+D:\ПП_Смелов\LabTwo\obj\Debug\net7.0\LabTwo.AssemblyInfoInputs.cache
+D:\ПП_Смелов\LabTwo\obj\Debug\net7.0\LabTwo.AssemblyInfo.cs
+D:\ПП_Смелов\LabTwo\obj\Debug\net7.0\LabTwo.csproj.CoreCompileInputs.cache
+D:\ПП_Смелов\LabTwo\obj\Debug\net7.0\LabTwo.dll
+D:\ПП_Смелов\LabTwo\obj\Debug\net7.0\refint\LabTwo.dll
+D:\ПП_Смелов\LabTwo\obj\Debug\net7.0\LabTwo.pdb
+D:\ПП_Смелов\LabTwo\obj\Debug\net7.0\LabTwo.genruntimeconfig.cache
+D:\ПП_Смелов\LabTwo\obj\Debug\net7.0\ref\LabTwo.dll

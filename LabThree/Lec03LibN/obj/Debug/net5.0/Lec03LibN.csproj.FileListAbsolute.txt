@@ -1,0 +1,12 @@
+D:\ПП_Смелов\LabThree\Lec03LibN\bin\Debug\net5.0\Lec03LibN.deps.json
+D:\ПП_Смелов\LabThree\Lec03LibN\bin\Debug\net5.0\Lec03LibN.dll
+D:\ПП_Смелов\LabThree\Lec03LibN\bin\Debug\net5.0\ref\Lec03LibN.dll
+D:\ПП_Смелов\LabThree\Lec03LibN\bin\Debug\net5.0\Lec03LibN.pdb
+D:\ПП_Смелов\LabThree\Lec03LibN\obj\Debug\net5.0\Lec03LibN.csproj.AssemblyReference.cache
+D:\ПП_Смелов\LabThree\Lec03LibN\obj\Debug\net5.0\Lec03LibN.GeneratedMSBuildEditorConfig.editorconfig
+D:\ПП_Смелов\LabThree\Lec03LibN\obj\Debug\net5.0\Lec03LibN.AssemblyInfoInputs.cache
+D:\ПП_Смелов\LabThree\Lec03LibN\obj\Debug\net5.0\Lec03LibN.AssemblyInfo.cs
+D:\ПП_Смелов\LabThree\Lec03LibN\obj\Debug\net5.0\Lec03LibN.csproj.CoreCompileInputs.cache
+D:\ПП_Смелов\LabThree\Lec03LibN\obj\Debug\net5.0\Lec03LibN.dll
+D:\ПП_Смелов\LabThree\Lec03LibN\obj\Debug\net5.0\ref\Lec03LibN.dll
+D:\ПП_Смелов\LabThree\Lec03LibN\obj\Debug\net5.0\Lec03LibN.pdb
